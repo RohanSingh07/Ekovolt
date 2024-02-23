@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "Hello, this is a sample Bash script running on Windows."
+echo "Today's date is $(date)."
+echo "Listing files in the current directory:"
+ls -l
